@@ -1,0 +1,25 @@
+.movie__detail {
+    margin-top: 30px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 60%;
+}
+
+.movie__detail-title {
+    text-align: center;
+}
+
+.movie__detail-year {
+    font-size: 18px;
+}
+
+.movie__detail img {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1080px) {
+    .movie__detail {
+        width: 90%;
+    }
+}

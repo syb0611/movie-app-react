@@ -71,11 +71,12 @@
     .movies {
         flex-flow: column;
         width: 100%;
+        padding: 50px 20px;
     }
 
     .movies .movie {
         width: 100%;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
 
     .movie img {

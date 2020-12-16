@@ -1,0 +1,15 @@
+.navbar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.navbar a:first-child {
+    margin-right: 5px;
+}
